@@ -1,113 +1,143 @@
 [[Xerces]]
 arch = "aarch64"
-git-tree-sha1 = "3168e321a78c5f61502c72d38275d34ea99c2153"
-libc = "glibc"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "f58826358ba334d5364f979552b01993e27eea8453a7fac6041bd7f61e52a045"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.aarch64-linux-gnu.tar.gz"
-[[Xerces]]
-arch = "aarch64"
-git-tree-sha1 = "6601515d460dcc458658c0b165dc2ce92f431520"
-libc = "musl"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "48a336726fe1d9c9088ed7e72e145f39e3569abb1d796dfce9cced80dfd3965d"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.aarch64-linux-musl.tar.gz"
-[[Xerces]]
-arch = "armv7l"
-git-tree-sha1 = "f68feae631d89b3d7d6c5673797af0af8b989426"
-libc = "glibc"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "8a5807b3b3cd569e1c9578c5d4e38c6df80b4981beb0063c858d364063e16cb1"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.armv7l-linux-gnueabihf.tar.gz"
-[[Xerces]]
-arch = "armv7l"
-git-tree-sha1 = "c52046ddd50512e80f7514ce5f41202662f59f78"
-libc = "musl"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "e32c614e44a131b1ffe468935607d9570089a30b235e554a443a7a03e4134027"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.armv7l-linux-musleabihf.tar.gz"
-[[Xerces]]
-arch = "i686"
-git-tree-sha1 = "24012b3a0c7a132a6408ae9def0114c158ebf191"
-libc = "glibc"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "690c51d819abed7727dfd9844416fc099a6238ac75f7e05a8a75f5a96f6fcffb"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.i686-linux-gnu.tar.gz"
-[[Xerces]]
-arch = "i686"
-git-tree-sha1 = "a512a43f72abccd92783d8357b41635dd4496e2b"
-libc = "musl"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "4fdfcfa522914b03e602891ab572707fe6d43cfc21dae34185334d2ae06984d0"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.i686-linux-musl.tar.gz"
-[[Xerces]]
-arch = "i686"
-git-tree-sha1 = "d8bc0b1c324c3c48df066ac686517ae491de5880"
-os = "windows"
-
-    [[Xerces.download]]
-    sha256 = "4dd2d54315395ab3d96992df52e7ea689cf26e782d9e96e95c5cc8fff92f441f"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.i686-w64-mingw32.tar.gz"
-[[Xerces]]
-arch = "powerpc64le"
-git-tree-sha1 = "3074ad4cfd348c1f81197f5db570f37df8219721"
-libc = "glibc"
-os = "linux"
-
-    [[Xerces.download]]
-    sha256 = "5c7c721ec3bc505003eb73c0511ea8bd4efd199e72951f1a32f415c176904c1f"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.powerpc64le-linux-gnu.tar.gz"
-[[Xerces]]
-arch = "x86_64"
-git-tree-sha1 = "a87b0bf6fa8e1360be5b380e6d19fc1ed43d2b71"
+git-tree-sha1 = "2aef78b1d17dbf26549ac8be58ffb34bfbf97786"
 os = "macos"
 
     [[Xerces.download]]
-    sha256 = "21411672311cb6b55e02580236ebc61b120a751baa5ed1b6dceba197c93e557b"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.x86_64-apple-darwin14.tar.gz"
+    sha256 = "f21a05241f58273d8113d18dc2c874e0df305b23e944a0fc2c6e208fc38efb9d"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.aarch64-apple-darwin.tar.gz"
 [[Xerces]]
-arch = "x86_64"
-git-tree-sha1 = "5b3b9c4eb0d1ba327953f18c3448e5d791b67022"
+arch = "aarch64"
+git-tree-sha1 = "ec72f64d22094ca353b44da1ac8ca7148a0e6513"
 libc = "glibc"
 os = "linux"
 
     [[Xerces.download]]
-    sha256 = "ef13a895307b6f6a3f8a6a9489ca38e6f29b1f8ccb997e040e6847e0381fbc5a"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "485bb826827aa522c35500a8a2a18dd6fd67476dfe21711e77e213ad03e0d6f5"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.aarch64-linux-gnu.tar.gz"
 [[Xerces]]
-arch = "x86_64"
-git-tree-sha1 = "1ae39029ee46e68301b29805413acfe6f86c1fe7"
+arch = "aarch64"
+git-tree-sha1 = "ac49eb8cb93a116b068d2f6915f8d4d2478a975d"
 libc = "musl"
 os = "linux"
 
     [[Xerces.download]]
-    sha256 = "442514b0a6c294abbd086c0636a5b55c8f16b1dc4f98cdf841bbb2915c427ba3"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.x86_64-linux-musl.tar.gz"
+    sha256 = "36e3cc5264df97b38f6df603c8aa2a42fab1e1b3b175de996ace0e71f2704a8c"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.aarch64-linux-musl.tar.gz"
 [[Xerces]]
-arch = "x86_64"
-git-tree-sha1 = "52bae1660de2a6fe163b0676538ee4aa3f09f814"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3d2b221fc78bda5007796848ea2011dab22bee6d"
+libc = "glibc"
+os = "linux"
 
     [[Xerces.download]]
-    sha256 = "2fbc2f0d526018fe8fede454a9ff3ef3ee8902814950d2ce93a26757edafc68e"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "402bb516de88485c39e0e4e2c3f5663a75a927e7482e99dd8e9e8570b5b1b837"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.armv6l-linux-gnueabihf.tar.gz"
 [[Xerces]]
-arch = "x86_64"
-git-tree-sha1 = "5f0c6dfab2911f661bb06741802e3fdd3f1c4179"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "33fd3298e9fba23398b406c3345dc422e4d1d07f"
+libc = "musl"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "9ccb0265fe415737e7c7e3b76857522648f5b53d5bec056d8c509d0b4a6748a5"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.armv6l-linux-musleabihf.tar.gz"
+[[Xerces]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e86ad523f021328fef97ae989db64a1aa048c818"
+libc = "glibc"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "c506c672b751740b1cd77acc40dc53c3d9a25e76c536a951a680d3c5a8eaf7e6"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.armv7l-linux-gnueabihf.tar.gz"
+[[Xerces]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "745ed83c121f849d6271a97009eefb28c9aaf4e2"
+libc = "musl"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "31a8e9e669d7c6dc9a6d3cbb9362ef6d873ecf77dceae96da3601be48d39ed66"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.armv7l-linux-musleabihf.tar.gz"
+[[Xerces]]
+arch = "i686"
+git-tree-sha1 = "35a3ec13a358c5bf1c65b133895e04824e0cef5a"
+libc = "glibc"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "8fda6d65b26aa44d6cf1d08e8d8742617beeb736984afd15c05ce1f9e3bc37c9"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.i686-linux-gnu.tar.gz"
+[[Xerces]]
+arch = "i686"
+git-tree-sha1 = "60b590e3433a5a84699debe208ed4c5f0cc636db"
+libc = "musl"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "3e3ee31cf36e4fa5e84f9b9e3dca8c0a85b2fd71c37a634992da47282f56cd38"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.i686-linux-musl.tar.gz"
+[[Xerces]]
+arch = "i686"
+git-tree-sha1 = "c48c4f2354508c8f64e0646cff9b71e5f8c9f249"
 os = "windows"
 
     [[Xerces.download]]
-    sha256 = "69115db1a3b36403f92dc60b236391d2f31deae4853181c579f24b0a13b30b6f"
-    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.3+0/Xerces.v3.2.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "eecec05f638061ba6505849b7b3665873f3057bafc581d55140a8be41e1b0f45"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.i686-w64-mingw32.tar.gz"
+[[Xerces]]
+arch = "powerpc64le"
+git-tree-sha1 = "ba3e71cb6e87ccf87db9dda463774ebe4ba7055e"
+libc = "glibc"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "39657a26e9d115ebaa69beb379861842fbf3399afb801e41ec2c5bc9148d1f6e"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.powerpc64le-linux-gnu.tar.gz"
+[[Xerces]]
+arch = "x86_64"
+git-tree-sha1 = "873cac66ad4ed154c44c11514f103918776c832d"
+os = "macos"
+
+    [[Xerces.download]]
+    sha256 = "1c8ac8fd66520a3896c0e14c0ced206862bb28600a5e5d6738accce8f7c3b96b"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.x86_64-apple-darwin.tar.gz"
+[[Xerces]]
+arch = "x86_64"
+git-tree-sha1 = "be4a424c0f4b5039931c0360a11944a642db412d"
+libc = "glibc"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "39fb6a5ae0f6ea69925d0ee82818426665ef7836b2e2a8cec79d7047714a6989"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.x86_64-linux-gnu.tar.gz"
+[[Xerces]]
+arch = "x86_64"
+git-tree-sha1 = "49d5b1bdaec1e7a334801c91ba3e8946886a15ed"
+libc = "musl"
+os = "linux"
+
+    [[Xerces.download]]
+    sha256 = "2e41dffda62dbe5bee5ffc2f30450de56e48ae41b4605e699197d63965772684"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.x86_64-linux-musl.tar.gz"
+[[Xerces]]
+arch = "x86_64"
+git-tree-sha1 = "1e2327b3fbb7b995495bc39a85b44a2da80e3a32"
+os = "freebsd"
+
+    [[Xerces.download]]
+    sha256 = "dce60739a75699c90bc782a8ec7fd900dbbb61fa4eef304a38686e31712273e7"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.x86_64-unknown-freebsd.tar.gz"
+[[Xerces]]
+arch = "x86_64"
+git-tree-sha1 = "f31d1f3c1eb3d84ed8d87212e7e856bce8c9e91a"
+os = "windows"
+
+    [[Xerces.download]]
+    sha256 = "27b782ac4cc4fc97ef45b6e248847f5f9c1fa5819901c064f26819eb87cb90b8"
+    url = "https://github.com/JuliaBinaryWrappers/Xerces_jll.jl/releases/download/Xerces-v3.2.4+0/Xerces.v3.2.4.x86_64-w64-mingw32.tar.gz"
